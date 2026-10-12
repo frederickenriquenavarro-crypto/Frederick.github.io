@@ -1,0 +1,36 @@
+body {
+    background-color: #08145e;
+
+}
+
+.TLOC  {
+    background-color: #3498db; /* Color de fondo del cuadro */
+    padding: 20px; /* Espacio interno para que el texto no pegue al borde */
+    border-radius: 8px; /* Bordes redondeados opcionales */
+    color: #ffffff; /* Color del texto */
+    width: 50%;
+}
+
+.FNAC {
+    background-color: #22b9ab; /* Color de fondo del cuadro */
+    padding: 20px; /* Espacio interno para que el texto no pegue al borde */
+    border-radius: 8px; /* Bordes redondeados opcionales */
+    color: #ffffff; /* Color del texto */
+    width: 50%;
+}
+
+.Papus {
+    background-color: #79cfe2;
+    padding: 20px;
+    border-radius: 8px;
+    color: #ffffff;
+    width: 60%;
+}
+
+.Extra {
+    background-color: #40c487;
+    padding: 20px;
+    border-radius: 8px;
+    color: #ffffff;
+    width: 25%;
+}
